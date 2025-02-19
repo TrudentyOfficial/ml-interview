@@ -1,0 +1,73 @@
+{
+  "fingerprint_id": "abc123xyz789",
+  "timestamp": "2025-02-18T14:23:45Z",
+  "device": {
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "platform": "Win32",
+    "hardware_concurrency": 8,
+    "device_memory": "16GB",
+    "screen_resolution": "1920x1080",
+    "color_depth": 24,
+    "timezone": "UTC+05:30",
+    "language": "en-US",
+    "do_not_track": false,
+    "cpu_architecture": "x86_64"
+  },
+  "browser": {
+    "name": "Chrome",
+    "version": "120.0.0.0",
+    "vendor": "Google Inc.",
+    "engine": "Blink",
+    "engine_version": "120.0.0.0",
+    "java_enabled": false,
+    "cookies_enabled": true,
+    "local_storage": true,
+    "session_storage": true,
+    "indexed_db": true,
+    "service_worker": true,
+    "webdriver": false
+  },
+  "plugins": [
+    "PDF Viewer",
+    "Chrome PDF Plugin",
+    "Widevine Content Decryption Module"
+  ],
+  "canvas_fingerprint": {
+    "hash": "d8e8fca2dc0f896fd7cb4cb0031ba249"
+  },
+  "webgl_fingerprint": {
+    "vendor": "NVIDIA Corporation",
+    "renderer": "NVIDIA GeForce GTX 1650/PCIe/SSE2"
+  },
+  "network": {
+    "ip_address": "192.168.1.10",
+    "public_ip": "203.0.113.5",
+    "connection_type": "wifi",
+    "isp": "XYZ Internet Services",
+    "proxy": false,
+    "vpn": false,
+    "tor": false
+  },
+  "behavioral_data": {
+    "mouse_movements": true,
+    "keyboard_events": true,
+    "touch_support": false,
+    "scroll_behavior": "smooth",
+    "tab_focus_changes": 5,
+    "clipboard_access": false
+  },
+  "audio_fingerprint": {
+    "hash": "a12b34c56d78e90f123456789abcdefg"
+  },
+  "media_devices": {
+    "camera": true,
+    "microphone": true,
+    "speakers": true
+  },
+  "fonts": [
+    "Arial",
+    "Verdana",
+    "Times New Roman",
+    "Courier New"
+  ]
+}

@@ -1,0 +1,1160 @@
+[
+    {
+        "id": "679cdc97-3ea3-a550-9380-8a237df3999c",
+        "date": "2025-01-31T14:22:15.692Z",
+        "bookingDateTime": "2025-01-31T14:22:15.692Z",
+        "valueDateTime": "2025-01-31T14:22:15.834Z",
+        "status": "BOOKED",
+        "amount": 200,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 200,
+            "currency": "GBP"
+        },
+        "description": "Payment from Hannah Kay",
+        "transactionInformation": [
+            "Payment from Hannah Kay"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TOPUP",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 208.13,
+                "currency": "GBP"
+            }
+        },
+        "payerDetails": {
+            "name": "IYINOLUWA ABIODUN",
+            "accountIdentifications": [
+                {
+                    "type": "SORT_CODE",
+                    "identification": "608407"
+                },
+                {
+                    "type": "ACCOUNT_NUMBER",
+                    "identification": "74555930"
+                }
+            ]
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "1a35c94aa7a58f6280c7bd0065670fa1.1"
+            },
+            "cleansedDescription": "Hannah Kay"
+        },
+        "supplementaryData": {
+            "UserComments": "EM. SAVE"
+        }
+    },
+    {
+        "id": "679bab3d-2faa-a355-a020-2e92cbf1d5bf",
+        "date": "2025-01-30T16:39:25.350Z",
+        "bookingDateTime": "2025-01-30T16:39:25.350Z",
+        "valueDateTime": "2025-01-30T16:39:25.504Z",
+        "status": "BOOKED",
+        "amount": 9,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 9,
+            "currency": "GBP"
+        },
+        "description": "Payment from Hannah Kay",
+        "transactionInformation": [
+            "Payment from Hannah Kay"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TOPUP",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 8.13,
+                "currency": "GBP"
+            }
+        },
+        "payerDetails": {
+            "name": "IYINOLUWA ABIODUN",
+            "accountIdentifications": [
+                {
+                    "type": "SORT_CODE",
+                    "identification": "608407"
+                },
+                {
+                    "type": "ACCOUNT_NUMBER",
+                    "identification": "20195218"
+                }
+            ]
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "3a8f7a3ee87432d75735d7457ac39814.1"
+            },
+            "cleansedDescription": "Hannah Kay"
+        },
+        "supplementaryData": {
+            "UserComments": "CHASE"
+        }
+    },
+    {
+        "id": "67983721-c863-a6d2-ae65-4e2e8fd63946",
+        "date": "2025-01-28T01:47:13.350Z",
+        "bookingDateTime": "2025-01-28T01:47:13.350Z",
+        "valueDateTime": "2025-01-28T01:47:13.350Z",
+        "status": "BOOKED",
+        "amount": -3.99,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -3.99,
+            "currency": "GBP"
+        },
+        "description": "Plus plan fee",
+        "transactionInformation": [
+            "Plus plan fee"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "FEE",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": -0.87,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "FEES & CHARGES",
+                    "OTHER"
+                ],
+                "source": "CODE"
+            },
+            "transactionHash": {
+                "hash": "1c36323bbcd3c890421e50724b2d1d9b.1"
+            },
+            "cleansedDescription": "Plus plan fee",
+            "merchant": {
+                "merchantName": "REVOLUT"
+            }
+        }
+    },
+    {
+        "id": "6793b63d-e4dd-a2b5-b051-2e276583a63a",
+        "date": "2025-01-24T15:48:13.032Z",
+        "bookingDateTime": "2025-01-24T15:48:13.032Z",
+        "valueDateTime": "2025-01-24T15:48:13.033Z",
+        "status": "BOOKED",
+        "amount": 1,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 1,
+            "currency": "GBP"
+        },
+        "description": "To GBP",
+        "transactionInformation": [
+            "To GBP"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TRANSFER",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 3.12,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "INCOME"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "b54cae40762039df1b38c8de020163e4.1"
+            },
+            "cleansedDescription": ""
+        }
+    },
+    {
+        "id": "6788eb91-d78e-a307-a7a0-28c079bdf4d5",
+        "date": "2025-01-16T11:20:49.577Z",
+        "bookingDateTime": "2025-01-16T11:20:49.577Z",
+        "valueDateTime": "2025-01-16T11:20:49.577Z",
+        "status": "BOOKED",
+        "amount": -1,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -1,
+            "currency": "GBP"
+        },
+        "description": "To GBP Stash",
+        "transactionInformation": [
+            "To GBP Stash"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TRANSFER",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 6.11,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER",
+                    "TRANSFER"
+                ],
+                "source": "CODE"
+            },
+            "transactionHash": {
+                "hash": "23f88ce6c7cef5c2e18c59991893fb53.1"
+            },
+            "cleansedDescription": "Stash"
+        }
+    },
+    {
+        "id": "6788eb91-c11e-ad29-a6fc-1f41ee72bfd6",
+        "date": "2025-01-16T11:20:49.450Z",
+        "bookingDateTime": "2025-01-16T11:20:49.450Z",
+        "valueDateTime": "2025-01-17T20:19:44.924Z",
+        "status": "BOOKED",
+        "amount": -3,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -3,
+            "currency": "GBP"
+        },
+        "description": "Eqmac - Bitgapp Ltd.",
+        "transactionInformation": [
+            "Eqmac - Bitgapp Ltd."
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "CARD_PAYMENT",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 2.12,
+                "currency": "GBP"
+            }
+        },
+        "merchant": {
+            "merchantName": "Eqmac - Bitgapp Ltd."
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "TRANSPORT"
+                ],
+                "source": "MODEL"
+            },
+            "transactionHash": {
+                "hash": "d6e6ba5ac5079807c8445536650ccb2f.1"
+            },
+            "cleansedDescription": "Eqmac Bitgapp"
+        }
+    },
+    {
+        "id": "6788448b-8cb9-abc3-b4bf-238c7000b258",
+        "date": "2025-01-15T23:28:11.260Z",
+        "bookingDateTime": "2025-01-15T23:28:11.260Z",
+        "valueDateTime": "2025-01-15T23:28:11.404Z",
+        "status": "BOOKED",
+        "amount": 5,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 5,
+            "currency": "GBP"
+        },
+        "description": "Payment from Hannah Kay",
+        "transactionInformation": [
+            "Payment from Hannah Kay"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TOPUP",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 7.11,
+                "currency": "GBP"
+            }
+        },
+        "payerDetails": {
+            "name": "IYINOLUWA ABIODUN",
+            "accountIdentifications": [
+                {
+                    "type": "SORT_CODE",
+                    "identification": "608407"
+                },
+                {
+                    "type": "ACCOUNT_NUMBER",
+                    "identification": "20195218"
+                }
+            ]
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "5874b7bb56f3676c4cd2419e24be5c7a.1"
+            },
+            "cleansedDescription": "Hannah Kay"
+        },
+        "supplementaryData": {
+            "UserComments": "CHASE"
+        }
+    },
+    {
+        "id": "678738aa-0587-a5d2-80a3-613243145b05",
+        "date": "2025-01-15T04:25:14.093Z",
+        "bookingDateTime": "2025-01-15T04:25:14.093Z",
+        "valueDateTime": "2025-01-15T04:25:14.093Z",
+        "status": "BOOKED",
+        "amount": -0.01,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -0.01,
+            "currency": "GBP"
+        },
+        "description": "To GBP Stash",
+        "transactionInformation": [
+            "To GBP Stash"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TRANSFER",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 2.11,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER",
+                    "TRANSFER"
+                ],
+                "source": "CODE"
+            },
+            "transactionHash": {
+                "hash": "eb778663ed35bc144d62f4292576e9b5.1"
+            },
+            "cleansedDescription": "Stash"
+        }
+    },
+    {
+        "id": "678738aa-494b-a4e6-b4dc-1523a663ab14",
+        "date": "2025-01-15T04:25:14.024Z",
+        "bookingDateTime": "2025-01-15T04:25:14.024Z",
+        "valueDateTime": "2025-01-16T14:00:33.434Z",
+        "status": "BOOKED",
+        "amount": -0.99,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -0.99,
+            "currency": "GBP"
+        },
+        "description": "apple.com/bill",
+        "transactionInformation": [
+            "apple.com/bill"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "CARD_PAYMENT",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 5.12,
+                "currency": "GBP"
+            }
+        },
+        "merchant": {
+            "merchantName": "Apple.com/bill"
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "SHOPPING",
+                    "ELECTRONICS"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "43bcdc7ee1de449876fd8cca111dba81.1"
+            },
+            "cleansedDescription": "apple.com",
+            "merchant": {
+                "merchantName": "APPLE"
+            }
+        }
+    },
+    {
+        "id": "6786b067-a72b-a16f-90fc-6168adb14512",
+        "date": "2025-01-14T18:43:51.773Z",
+        "bookingDateTime": "2025-01-14T18:43:51.773Z",
+        "valueDateTime": "2025-01-14T18:43:51.774Z",
+        "status": "BOOKED",
+        "amount": 2,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 2,
+            "currency": "GBP"
+        },
+        "description": "To GBP",
+        "transactionInformation": [
+            "To GBP"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TRANSFER",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 2.12,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "INCOME"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "24c1b250b9a7ee7b11efe8aaed10be09.1"
+            },
+            "cleansedDescription": ""
+        }
+    },
+    {
+        "id": "6784733f-094b-a751-879c-0f4409e13046",
+        "date": "2025-01-13T01:58:23.989Z",
+        "bookingDateTime": "2025-01-13T01:58:23.989Z",
+        "valueDateTime": "2025-01-13T01:58:23.989Z",
+        "status": "BOOKED",
+        "amount": -0.01,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -0.01,
+            "currency": "GBP"
+        },
+        "description": "To GBP Stash",
+        "transactionInformation": [
+            "To GBP Stash"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TRANSFER",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 6.11,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER",
+                    "TRANSFER"
+                ],
+                "source": "CODE"
+            },
+            "transactionHash": {
+                "hash": "d941a6d68ec86b869a1ad9ef927d5a91.1"
+            },
+            "cleansedDescription": "Stash"
+        }
+    },
+    {
+        "id": "6784733f-ba8e-af9d-9c33-41dd072cd2c1",
+        "date": "2025-01-13T01:58:23.928Z",
+        "bookingDateTime": "2025-01-13T01:58:23.928Z",
+        "valueDateTime": "2025-01-13T13:33:20.269Z",
+        "status": "BOOKED",
+        "amount": -5.99,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -5.99,
+            "currency": "GBP"
+        },
+        "description": "apple.com/bill",
+        "transactionInformation": [
+            "apple.com/bill"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "CARD_PAYMENT",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 0.12,
+                "currency": "GBP"
+            }
+        },
+        "merchant": {
+            "merchantName": "Apple.com/bill"
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "SHOPPING",
+                    "ELECTRONICS"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "cd4abf5476696400c69561feb1d64abd.1"
+            },
+            "cleansedDescription": "apple.com",
+            "merchant": {
+                "merchantName": "APPLE"
+            }
+        }
+    },
+    {
+        "id": "6783e0d8-f3ce-aa1d-a25b-31671298ec57",
+        "date": "2025-01-12T15:33:44.772Z",
+        "bookingDateTime": "2025-01-12T15:33:44.772Z",
+        "valueDateTime": "2025-01-12T15:33:44.936Z",
+        "status": "BOOKED",
+        "amount": 3,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 3,
+            "currency": "GBP"
+        },
+        "description": "Payment from Hannah Kay",
+        "transactionInformation": [
+            "Payment from Hannah Kay"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TOPUP",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 6.12,
+                "currency": "GBP"
+            }
+        },
+        "payerDetails": {
+            "name": "IYINOLUWA ABIODUN",
+            "accountIdentifications": [
+                {
+                    "type": "SORT_CODE",
+                    "identification": "608407"
+                },
+                {
+                    "type": "ACCOUNT_NUMBER",
+                    "identification": "20195218"
+                }
+            ]
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "4ccb8cb7a48a884f20acc533990d1a34.1"
+            },
+            "cleansedDescription": "Hannah Kay"
+        },
+        "supplementaryData": {
+            "UserComments": "CHASE"
+        }
+    },
+    {
+        "id": "67804dd6-c590-abdf-938a-a922b0f7c973",
+        "date": "2025-01-09T22:29:42.363Z",
+        "bookingDateTime": "2025-01-09T22:29:42.363Z",
+        "valueDateTime": "2025-01-09T22:29:42.363Z",
+        "status": "BOOKED",
+        "amount": -1,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -1,
+            "currency": "GBP"
+        },
+        "description": "To GBP Stash",
+        "transactionInformation": [
+            "To GBP Stash"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TRANSFER",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 12.12,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER",
+                    "TRANSFER"
+                ],
+                "source": "CODE"
+            },
+            "transactionHash": {
+                "hash": "a7863fd8a61a4ee8b597746416d54d6a.1"
+            },
+            "cleansedDescription": "Stash"
+        }
+    },
+    {
+        "id": "67804dd6-e5fd-aec3-8069-3111d8ff8e47",
+        "date": "2025-01-09T22:29:42.292Z",
+        "bookingDateTime": "2025-01-09T22:29:42.292Z",
+        "valueDateTime": "2025-01-11T08:54:13.701Z",
+        "status": "BOOKED",
+        "amount": -9,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -9,
+            "currency": "GBP"
+        },
+        "description": "Ee Topup\u00a0 Vesta",
+        "transactionInformation": [
+            "Ee Topup\u00a0 Vesta"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "CARD_PAYMENT",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 3.12,
+                "currency": "GBP"
+            }
+        },
+        "merchant": {
+            "merchantName": "Ee Topup\u00a0 Vesta"
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "BILLS",
+                    "MOBILE PHONE"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "9dca31f1a50f3757dd8c61e62fac197a.1"
+            },
+            "cleansedDescription": "Ee Topup Vesta",
+            "merchant": {
+                "merchantName": "EE"
+            }
+        }
+    },
+    {
+        "id": "6780187e-a123-a84c-92e6-4e42075d7e6d",
+        "date": "2025-01-09T18:42:06.159Z",
+        "bookingDateTime": "2025-01-09T18:42:06.159Z",
+        "valueDateTime": "2025-01-09T18:42:06.297Z",
+        "status": "BOOKED",
+        "amount": 10,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 10,
+            "currency": "GBP"
+        },
+        "description": "Payment from Hannah Kay",
+        "transactionInformation": [
+            "Payment from Hannah Kay"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TOPUP",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 13.12,
+                "currency": "GBP"
+            }
+        },
+        "payerDetails": {
+            "name": "IYINOLUWA ABIODUN",
+            "accountIdentifications": [
+                {
+                    "type": "SORT_CODE",
+                    "identification": "608407"
+                },
+                {
+                    "type": "ACCOUNT_NUMBER",
+                    "identification": "20195218"
+                }
+            ]
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "8754e93006d8b5cdb84ffd9c062ae3ce.1"
+            },
+            "cleansedDescription": "Hannah Kay"
+        },
+        "supplementaryData": {
+            "UserComments": "CHASE"
+        }
+    },
+    {
+        "id": "677dae77-d8ca-a8ec-958c-8908e17d72cf",
+        "date": "2025-01-07T22:45:11.273Z",
+        "bookingDateTime": "2025-01-07T22:45:11.273Z",
+        "valueDateTime": "2025-01-07T22:45:11.273Z",
+        "status": "BOOKED",
+        "amount": -1,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -1,
+            "currency": "GBP"
+        },
+        "description": "To GBP Stash",
+        "transactionInformation": [
+            "To GBP Stash"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TRANSFER",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 46.12,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER",
+                    "TRANSFER"
+                ],
+                "source": "CODE"
+            },
+            "transactionHash": {
+                "hash": "80bc8dc5548a707b2c32161c36266149.1"
+            },
+            "cleansedDescription": "Stash"
+        }
+    },
+    {
+        "id": "677dae77-fbe2-a453-bd3e-b2cf7a5f0699",
+        "date": "2025-01-07T22:45:11.215Z",
+        "bookingDateTime": "2025-01-07T22:45:11.215Z",
+        "valueDateTime": "2025-01-08T13:16:21.084Z",
+        "status": "BOOKED",
+        "amount": -43,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -43,
+            "currency": "GBP"
+        },
+        "description": "Gowning",
+        "transactionInformation": [
+            "Gowning"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "CARD_PAYMENT",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 3.12,
+                "currency": "GBP"
+            }
+        },
+        "merchant": {
+            "merchantName": "Gowning"
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "TRANSPORT"
+                ],
+                "source": "MODEL"
+            },
+            "transactionHash": {
+                "hash": "808d76934b893e036692eebda61dc01e.1"
+            },
+            "cleansedDescription": "Gowning"
+        }
+    },
+    {
+        "id": "677dae27-00d3-a5b3-a9b4-c6e9d4c5eb5d",
+        "date": "2025-01-07T22:43:51.419Z",
+        "bookingDateTime": "2025-01-07T22:43:51.419Z",
+        "valueDateTime": "2025-01-07T22:43:51.568Z",
+        "status": "BOOKED",
+        "amount": 45,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 45,
+            "currency": "GBP"
+        },
+        "description": "Payment from Hannah Kay",
+        "transactionInformation": [
+            "Payment from Hannah Kay"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "TOPUP",
+            "issuer": "Revolut"
+        },
+        "balance": {
+            "type": "INTERIM_BOOKED",
+            "balanceAmount": {
+                "amount": 47.12,
+                "currency": "GBP"
+            }
+        },
+        "payerDetails": {
+            "name": "IYINOLUWA ABIODUN",
+            "accountIdentifications": [
+                {
+                    "type": "SORT_CODE",
+                    "identification": "608407"
+                },
+                {
+                    "type": "ACCOUNT_NUMBER",
+                    "identification": "20195218"
+                }
+            ]
+        },
+        "enrichment": {
+            "categorisation": {
+                "categories": [
+                    "OTHER"
+                ],
+                "source": "MERCHANT"
+            },
+            "transactionHash": {
+                "hash": "0398f6570ff676c5b22d9065bf169d14.1"
+            },
+            "cleansedDescription": "Hannah Kay"
+        },
+        "supplementaryData": {
+            "UserComments": "CHASE"
+        }
+    }
+]

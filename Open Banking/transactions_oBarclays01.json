@@ -1,0 +1,190 @@
+[
+    {
+        "id": "6a98b55f494a7638d9663fb85452f904.1",
+        "date": "2024-11-07T00:00:00.000Z",
+        "bookingDateTime": "2024-11-07T00:00:00.000Z",
+        "valueDateTime": "2024-11-07T17:07:49.060Z",
+        "status": "BOOKED",
+        "amount": -100.0,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -100.0,
+            "currency": "GBP"
+        },
+        "description": "INVESTMENT ISA  ID1794878-001 FT",
+        "transactionInformation": [
+            "INVESTMENT ISA  ID1794878-001 FT"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "Debit",
+            "issuer": "barclays"
+        },
+        "balance": {
+            "type": "INFORMATION",
+            "balanceAmount": {
+                "amount": 701.11,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "transactionHash": {
+                "hash": "6a98b55f494a7638d9663fb85452f904.1"
+            }
+        }
+    },
+    {
+        "id": "89867ba1463e4487d1a73519aaf00979.1",
+        "date": "2024-03-11T00:00:00.000Z",
+        "bookingDateTime": "2024-03-11T00:00:00.000Z",
+        "valueDateTime": "2024-03-10T20:13:55.930Z",
+        "status": "BOOKED",
+        "amount": -100.0,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": -100.0,
+            "currency": "GBP"
+        },
+        "description": "INVESTMENT ISA  ID1794878-001 FT",
+        "transactionInformation": [
+            "INVESTMENT ISA  ID1794878-001 FT"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "ICDT",
+                "name": "Issued Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "Debit",
+            "issuer": "barclays"
+        },
+        "balance": {
+            "type": "INFORMATION",
+            "balanceAmount": {
+                "amount": 801.11,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "transactionHash": {
+                "hash": "89867ba1463e4487d1a73519aaf00979.1"
+            }
+        }
+    },
+    {
+        "id": "2d3bed9babfa3ac0574935e9903a56fc.1",
+        "date": "2024-03-11T00:00:00.000Z",
+        "bookingDateTime": "2024-03-11T00:00:00.000Z",
+        "valueDateTime": "2024-03-10T20:07:34.050Z",
+        "status": "BOOKED",
+        "amount": 890.0,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 890.0,
+            "currency": "GBP"
+        },
+        "description": "Arjun Sharma  Sent from Revolut BGC",
+        "transactionInformation": [
+            "Arjun Sharma  Sent from Revolut BGC"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "Credit",
+            "issuer": "barclays"
+        },
+        "balance": {
+            "type": "INFORMATION",
+            "balanceAmount": {
+                "amount": 901.11,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "transactionHash": {
+                "hash": "2d3bed9babfa3ac0574935e9903a56fc.1"
+            }
+        }
+    },
+    {
+        "id": "9b416d758db8b39bfa2d8156a0eaae03.1",
+        "date": "2024-03-11T00:00:00.000Z",
+        "bookingDateTime": "2024-03-11T00:00:00.000Z",
+        "valueDateTime": "2024-03-10T20:06:22.920Z",
+        "status": "BOOKED",
+        "amount": 10.0,
+        "currency": "GBP",
+        "transactionAmount": {
+            "amount": 10.0,
+            "currency": "GBP"
+        },
+        "description": "Arjun Sharma  Sent from Revolut BGC",
+        "transactionInformation": [
+            "Arjun Sharma  Sent from Revolut BGC"
+        ],
+        "isoBankTransactionCode": {
+            "domainCode": {
+                "code": "PMNT",
+                "name": "Payments"
+            },
+            "familyCode": {
+                "code": "RCDT",
+                "name": "Received Credit Transfers"
+            },
+            "subFamilyCode": {
+                "code": "DMCT",
+                "name": "Domestic Credit Transfer"
+            }
+        },
+        "proprietaryBankTransactionCode": {
+            "code": "Credit",
+            "issuer": "barclays"
+        },
+        "balance": {
+            "type": "INFORMATION",
+            "balanceAmount": {
+                "amount": 11.11,
+                "currency": "GBP"
+            }
+        },
+        "enrichment": {
+            "transactionHash": {
+                "hash": "9b416d758db8b39bfa2d8156a0eaae03.1"
+            }
+        }
+    }
+]
